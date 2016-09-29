@@ -23,7 +23,7 @@ fields:
 ## Credits
 This repo is heavily based on [Sonja Broda](https://github.com/texnixe)'s [`kirby-clone-field`](https://github.com/texnixe/kirby-clone-field).
 
-I chose to create a new repo rather than fork its own because I wanted a different approach to experience of cloning a page.
+I chose to create a new repo rather than fork its own because I wanted a different approach to the experience of cloning a page.
 
 ## Contribute
 Feel free to fork and pull request. Also, go check out the original [`kirby-clone-field`](https://github.com/texnixe/kirby-clone-field).
