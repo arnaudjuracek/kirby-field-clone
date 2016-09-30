@@ -1,13 +1,14 @@
 (function($) {
   $.fn.cloneField = function() {
     var
-      el = $('.sidebar-inject'),
+      el = $('.clone.sidebar-inject'),
       sidebar = $('.sidebar-list').first();
 
       sidebar.append($('<li></li>').append(el));
 
     el.click(function(e) {
       $.fn.ajax('clone');
+      e.preventDefault();
     });
   };
 

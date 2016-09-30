@@ -10,7 +10,7 @@
 </div>
 <?php endif ?>
 
-<a href="#" class="sidebar-inject btn-clone" data-field="clone">
+<a href="#" class="clone sidebar-inject btn-clone" data-field="clone">
   <i class="icon fa fa-clone"></i>
   <span><?php e($text, $text, 'Clone this page') ?></span>
   <input
